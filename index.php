@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>primera pagina</title>
+</head>
+<body>
+
+
+    <?php
+        print "Bienvenidos al curso PHP <br>";
+        print "hola mundo <br>";
+        print "hasta el proxico cap <br>"
+    ?>
+</body>
+</html>
